@@ -40,3 +40,5 @@ Business Recommendation
 Implement the Group B design for all users to improve CTR. Continue A/B testing additional UI changes to drive further gains.
 
 Feel free to clone or fork this project for your own experimentation with A/B testing workflows.
+clone using:
+https://github.com/calantha168/A-B-Testing-Case-Study-Improving-Click-Through-Rate-via-Design-Optimization.git
